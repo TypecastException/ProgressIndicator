@@ -1,3 +1,5 @@
+Firefox like circular progress indicator
+
 ﻿The ProgressIndicator project is used under the Code Project CPOL license, available here:
 http://www.codeproject.com/info/cpol10.aspx
 
