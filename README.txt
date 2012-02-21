@@ -1,4 +1,6 @@
-Firefox like circular progress indicator
+Firefox like circular progress indicator -
+
+Note this is the project of another author whoi has graciously allowed me to upload his code to my repo for use in a few of my projects. See below for details, and do please visit the code project site and article:
 
 ﻿The ProgressIndicator project is used under the Code Project CPOL license, available here:
 http://www.codeproject.com/info/cpol10.aspx
