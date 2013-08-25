@@ -1,5 +1,5 @@
 Firefox-Like Circular Progress Indicator
-========================================
+============================================
 
 Note this is the project of another author who has graciously allowed me to upload his code to my repo for use 
 in a few of my projects. See below for details, and do please visit the code project site and article:
